@@ -1,0 +1,521 @@
+test,cholesteroltotal,triglycerides,hdlcholesterol,ldlcholesterol,vldlcholesterol,non-hdlcholesterol,classification,inference
+lipid profile,238,198,33,151,43,190,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,229,193,38,174,40,185,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,236,170,37,170,49,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,202,176,40,143,40,209,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,211,162,45,154,41,215,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,243,168,38,154,31,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,242,193,31,168,39,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,192,165,36,155,37,189,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,224,171,45,158,33,188,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,256,177,38,159,47,204,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,250,186,40,142,41,198,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,210,193,31,163,42,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,248,180,46,160,47,191,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,237,195,42,165,41,223,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,226,167,42,157,48,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,191,168,38,171,34,194,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,225,185,48,162,33,221,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,200,163,47,175,39,214,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,231,177,38,159,34,203,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,252,169,40,178,48,193,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,244,171,42,170,35,182,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,259,179,48,171,30,197,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,219,195,35,176,39,182,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,246,177,36,154,48,227,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,231,165,40,150,43,197,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,250,163,49,156,32,187,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,245,191,44,152,46,199,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,251,189,40,176,34,226,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,205,171,44,177,40,180,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,203,178,35,167,35,188,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,195,173,39,156,32,217,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,218,181,32,171,48,224,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,232,193,48,149,46,216,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,236,185,30,160,36,198,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,243,169,40,143,30,222,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,249,162,43,163,46,229,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,212,182,35,178,37,224,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,205,191,42,173,45,195,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,256,183,31,146,36,213,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,204,183,44,167,35,191,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,225,180,48,161,43,214,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,220,170,48,178,32,194,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,196,178,31,144,43,214,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,231,191,38,176,33,229,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,230,185,34,173,31,216,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,195,192,46,160,48,192,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,200,197,33,170,43,206,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,223,192,45,149,36,214,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,201,177,38,175,45,213,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,219,167,44,176,35,199,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,201,172,35,172,45,225,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,256,184,45,164,33,189,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,258,168,31,148,32,190,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,210,181,47,147,36,195,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,190,196,41,158,39,186,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,257,177,44,151,48,192,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,199,189,48,169,35,201,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,237,189,36,154,35,227,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,211,189,36,164,35,208,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,241,174,31,147,35,228,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,200,198,43,147,40,219,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,231,197,46,141,42,217,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,258,197,45,173,36,189,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,255,184,39,144,48,194,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,203,163,40,162,36,193,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,255,197,37,141,31,201,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,259,190,46,157,47,214,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,246,189,43,147,35,194,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,191,199,30,154,43,228,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,247,164,33,160,43,186,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,255,189,44,145,40,193,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,198,162,48,147,42,203,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,246,160,31,172,40,189,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,248,172,49,157,40,199,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,235,180,47,160,48,185,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,218,190,41,176,48,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,232,183,32,161,37,211,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,210,164,35,161,33,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,224,174,49,165,36,200,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,224,172,40,150,40,219,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,210,167,47,169,47,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,244,197,30,150,42,199,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,234,183,39,175,39,218,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,193,162,32,157,47,190,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,218,165,30,171,40,204,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,212,172,44,161,40,202,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,217,180,33,161,33,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,197,194,43,148,39,220,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,256,196,43,155,45,214,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,252,173,47,160,42,223,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,199,185,32,141,45,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,194,185,43,151,36,220,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,236,185,36,144,36,185,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,250,169,40,154,33,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,244,163,34,145,35,201,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,241,170,45,165,35,190,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,191,197,30,159,32,227,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,200,172,37,172,44,222,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,249,197,48,162,36,200,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,227,175,39,144,38,215,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,247,169,41,142,48,217,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,204,165,35,144,32,215,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,241,188,35,158,34,215,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,200,184,36,151,36,223,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,246,196,32,179,38,184,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,193,164,34,143,45,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,244,186,46,165,30,208,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,238,189,42,160,39,224,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,245,176,40,161,40,205,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,243,168,31,141,45,203,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,248,196,47,177,41,198,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,228,195,39,161,31,208,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,243,170,31,169,36,194,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,217,169,47,171,37,196,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,239,169,36,165,47,190,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,218,181,47,165,43,226,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,206,199,37,174,37,189,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,233,162,39,177,39,201,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,211,189,30,149,45,207,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,246,183,39,147,35,182,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,255,180,47,140,43,180,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,194,182,42,171,42,212,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,233,191,46,143,35,194,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,217,168,41,159,34,193,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,231,164,34,141,48,228,poor,Non-HDL cholesterol and/or low HDL with high triglycerides indicate serious cardiovascular risk. Immediate action is necessary to improve heart health.
+lipid profile,189,165,57,126,31,161,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,207,162,51,122,36,170,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,164,58,135,36,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,225,151,42,119,30,157,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,205,133,55,125,30,162,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,183,141,44,103,32,175,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,200,168,49,129,35,172,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,214,157,56,105,29,171,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,209,168,41,127,33,160,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,214,160,58,112,21,152,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,220,163,43,123,26,177,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,226,136,44,118,39,179,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,193,159,58,120,25,164,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,221,168,45,103,27,161,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,203,170,42,103,20,151,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,195,165,59,137,31,160,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,188,151,44,122,25,166,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,180,167,49,136,32,169,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,193,168,58,101,38,159,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,186,166,57,103,35,164,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,210,151,46,121,26,164,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,158,54,137,34,165,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,217,133,53,101,35,160,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,227,136,42,122,37,162,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,194,170,59,123,37,179,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,208,174,58,130,29,173,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,208,146,59,109,37,162,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,192,164,44,116,26,173,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,226,130,59,108,38,172,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,192,158,42,124,34,172,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,215,163,42,119,20,171,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,192,175,52,106,24,176,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,201,158,41,102,33,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,225,179,40,111,36,173,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,209,148,46,122,23,171,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,186,133,51,136,35,171,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,214,175,52,125,33,158,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,196,150,48,129,33,167,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,228,132,58,136,28,168,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,186,131,58,111,37,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,190,137,40,107,26,159,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,204,165,50,119,23,155,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,197,157,41,105,27,155,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,193,169,45,131,26,179,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,226,176,51,131,34,161,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,200,147,40,131,26,161,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,190,144,58,126,33,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,148,53,116,39,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,209,152,58,124,35,156,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,180,164,52,114,36,167,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,190,130,42,108,27,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,193,179,47,139,25,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,201,168,44,125,31,161,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,200,133,40,121,31,179,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,204,155,56,136,34,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,226,165,50,132,34,179,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,184,175,47,108,32,155,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,194,175,54,125,30,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,211,138,54,103,36,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,208,148,43,119,27,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,228,176,43,107,23,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,172,52,103,37,170,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,196,178,45,113,32,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,207,175,58,126,33,176,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,195,157,52,135,33,178,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,220,161,46,122,29,161,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,202,163,54,138,34,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,225,140,50,126,30,176,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,204,170,50,107,20,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,223,153,50,138,38,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,205,156,54,107,28,167,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,206,172,52,110,31,156,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,202,142,53,134,30,164,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,194,157,57,112,31,169,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,210,143,40,106,21,178,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,228,133,55,125,38,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,190,168,48,130,27,152,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,191,152,43,108,26,158,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,189,162,58,133,24,161,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,216,167,50,106,28,170,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,203,148,48,108,20,153,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,207,138,58,100,39,151,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,132,54,119,30,169,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,189,152,44,104,33,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,214,170,46,137,27,159,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,221,156,40,105,39,157,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,216,170,56,115,23,172,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,165,49,125,33,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,208,138,42,114,21,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,201,157,41,139,32,162,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,209,138,50,136,29,164,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,180,173,55,105,26,155,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,218,152,40,107,35,168,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,186,151,57,112,23,171,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,203,165,42,119,22,175,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,212,154,50,109,37,177,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,222,155,57,130,38,165,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,224,175,54,101,20,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,211,152,55,100,27,166,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,206,148,52,114,21,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,207,163,46,119,28,176,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,219,160,40,137,21,156,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,225,132,55,100,33,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,214,166,44,112,26,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,183,166,55,133,21,160,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,189,158,48,104,25,169,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,150,45,133,29,172,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,209,148,55,137,25,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,185,170,40,102,31,177,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,204,132,43,117,36,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,213,176,48,114,32,155,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,213,136,52,132,28,156,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,197,178,49,130,39,174,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,195,160,53,132,22,159,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,190,141,43,103,22,176,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,197,172,59,110,28,160,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,212,166,57,133,22,150,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,224,166,49,125,34,152,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,198,160,47,116,34,170,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,192,162,45,114,30,178,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,183,141,57,121,22,155,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,203,170,45,101,29,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,180,130,54,104,36,163,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,229,133,41,130,27,154,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,223,164,47,133,29,162,moderate,"Non-HDL cholesterol and HDL levels suggest moderate heart health. While your cholesterol levels are not critical, lifestyle changes are recommended."
+lipid profile,203,149,51,105,15,134,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,166,134,63,92,16,130,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,180,145,66,90,11,145,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,201,116,56,104,24,136,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,208,133,52,90,29,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,191,123,63,93,29,147,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,201,128,62,115,25,143,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,166,149,60,121,14,130,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,182,141,57,105,19,149,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,173,134,52,101,20,134,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,187,135,66,120,25,140,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,193,139,62,125,15,141,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,182,130,54,121,18,133,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,201,145,62,126,12,133,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,205,111,53,105,24,142,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,206,133,69,127,28,141,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,183,124,62,117,13,145,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,202,112,65,122,21,140,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,204,110,58,113,17,138,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,209,119,66,91,13,130,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,181,140,54,125,12,142,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,209,126,63,124,24,131,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,177,119,64,117,21,130,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,168,132,61,105,24,134,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,174,116,55,102,17,140,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,162,145,54,123,14,136,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,200,119,65,102,17,130,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,189,143,65,126,11,147,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,161,137,65,129,29,148,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,174,132,55,97,24,145,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,174,138,65,101,13,138,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,178,137,50,99,21,137,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,164,122,64,110,29,131,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,168,131,53,90,17,132,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,160,138,66,94,19,136,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,186,139,64,91,22,144,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,120,52,123,22,145,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,206,144,50,116,24,141,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,188,122,65,125,19,132,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,186,132,68,102,12,137,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,205,110,62,122,19,141,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,167,115,50,109,28,139,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,198,131,56,115,18,147,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,174,110,66,106,20,135,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,180,128,50,116,15,136,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,205,138,53,95,14,141,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,164,127,52,126,20,138,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,172,131,61,126,12,147,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,199,115,53,90,14,134,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,178,149,61,113,28,138,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,160,147,59,99,16,137,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,188,111,64,120,26,148,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,208,137,66,102,13,135,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,178,134,62,108,12,148,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,192,122,56,117,12,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,191,111,56,95,18,149,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,178,126,69,90,25,130,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,175,124,52,94,20,139,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,163,126,69,94,14,144,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,187,140,61,127,28,149,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,177,110,50,94,17,137,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,181,140,66,91,12,135,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,186,145,55,100,23,148,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,163,116,50,122,18,148,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,163,149,61,110,26,130,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,187,135,69,105,22,147,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,186,144,63,121,11,136,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,203,141,53,110,16,134,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,195,143,69,122,29,135,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,166,137,56,121,28,148,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,208,132,56,100,15,132,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,172,143,69,90,11,140,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,181,148,57,118,27,133,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,183,131,52,104,20,136,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,201,140,54,90,10,147,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,208,130,54,99,21,147,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,178,133,57,104,29,147,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,208,128,62,120,10,138,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,172,138,65,90,18,138,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,175,134,66,112,19,138,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,169,110,51,99,25,135,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,183,127,69,121,18,140,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,191,145,51,115,10,142,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,204,127,66,107,11,139,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,184,110,65,92,24,136,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,193,148,60,120,17,148,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,194,143,64,111,18,148,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,168,127,58,92,14,137,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,166,124,67,111,17,134,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,164,111,56,124,15,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,181,135,66,114,29,134,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,168,113,58,116,13,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,196,120,64,110,21,139,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,180,126,67,108,12,132,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,203,128,50,121,23,139,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,200,118,66,123,27,137,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,188,135,59,115,27,142,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,195,137,51,102,26,144,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,198,113,63,112,11,142,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,167,131,69,121,22,139,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,193,122,52,96,24,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,176,118,55,114,19,130,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,195,130,50,127,11,147,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,168,149,50,121,28,141,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,203,117,64,106,17,143,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,166,112,56,108,16,132,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,202,131,68,90,10,136,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,167,138,54,112,17,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,194,113,53,90,13,139,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,166,149,65,103,27,144,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,202,131,61,98,17,132,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,178,148,56,120,18,146,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,184,128,56,128,25,140,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,163,143,66,121,12,134,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,169,143,64,90,29,139,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,179,122,58,126,11,137,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,193,123,62,93,13,148,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,183,115,66,98,21,135,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,209,144,50,102,13,141,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,194,129,69,117,29,149,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,202,112,56,110,24,144,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,178,110,67,100,26,137,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,190,116,53,103,14,143,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,169,124,56,123,19,135,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,177,120,50,128,27,130,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,166,105,72,90,7,122,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,178,128,72,68,9,90,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,155,116,71,90,5,95,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,145,108,77,74,19,101,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,151,117,74,68,8,126,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,187,122,61,85,17,92,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,158,118,63,93,8,126,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,156,123,69,67,8,98,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,107,66,74,15,119,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,147,127,61,62,11,101,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,180,116,67,100,10,92,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,141,113,67,69,7,116,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,175,110,74,82,10,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,144,115,77,85,15,108,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,118,68,68,7,126,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,165,121,60,64,10,98,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,177,107,75,109,6,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,169,120,76,63,10,128,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,150,121,69,96,9,105,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,148,122,73,92,6,92,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,151,112,79,109,6,113,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,161,109,64,94,5,113,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,177,109,68,92,17,119,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,140,121,62,71,13,116,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,121,61,65,14,108,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,151,121,74,93,16,128,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,142,117,65,95,13,126,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,143,107,74,71,16,127,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,142,110,70,72,18,120,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,144,103,74,71,18,127,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,148,124,78,89,8,121,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,155,128,62,93,6,104,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,172,108,65,94,19,112,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,174,121,68,83,6,119,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,185,101,61,73,7,100,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,160,105,61,88,16,119,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,161,126,61,95,7,100,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,144,112,76,60,13,126,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,154,129,65,109,5,97,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,140,100,76,90,7,111,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,161,113,65,105,14,127,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,140,128,74,76,18,122,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,109,70,81,17,122,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,175,100,61,72,6,112,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,151,120,79,103,7,116,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,167,121,60,70,19,128,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,146,124,65,63,8,110,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,160,108,79,109,16,106,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,142,114,64,106,12,91,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,128,63,95,17,111,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,150,101,60,72,8,124,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,158,105,63,83,7,117,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,166,126,74,97,7,111,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,169,100,70,73,6,129,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,176,120,62,83,8,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,184,122,65,73,9,108,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,146,129,73,89,9,92,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,141,114,67,70,12,123,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,144,110,60,67,9,123,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,140,110,64,87,19,112,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,160,128,76,66,10,122,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,176,129,63,66,16,125,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,171,113,64,108,10,126,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,165,107,71,71,5,113,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,155,115,64,95,11,93,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,185,106,70,95,8,96,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,167,102,64,65,6,123,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,186,111,76,84,15,105,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,171,128,66,87,10,105,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,112,77,73,8,102,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,147,108,72,99,12,108,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,188,121,70,78,16,93,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,179,103,73,70,12,118,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,155,103,74,74,7,116,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,165,120,71,60,11,116,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,176,117,65,96,14,129,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,141,100,61,105,16,106,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,182,127,61,105,5,100,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,178,128,78,102,18,103,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,149,123,71,84,7,101,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,165,124,64,86,15,127,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,148,129,61,77,14,117,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,189,121,70,92,15,108,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,145,123,75,88,8,121,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,172,102,65,108,16,115,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,161,114,71,100,16,94,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,149,110,68,63,10,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,161,121,67,84,8,97,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,177,122,68,61,13,100,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,154,121,68,81,15,103,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,177,104,78,106,9,90,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,189,125,62,92,13,116,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,155,123,78,83,14,122,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,146,115,73,85,5,102,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,150,116,63,78,5,90,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,163,126,60,60,8,104,excellent,Excellent cardiovascular health! HDL and non-HDL cholesterol levels indicate minimal heart disease risk. Continue your healthy lifestyle.
+lipid profile,175,109,66,106,11,92,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,185,109,76,94,9,119,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,182,107,77,70,15,112,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,160,106,70,87,15,105,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,170,126,75,75,9,93,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,140,114,63,85,19,94,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,178,126,67,66,17,111,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,177,113,66,69,7,101,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,156,128,66,80,9,103,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,174,111,73,109,12,106,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,166,126,75,92,8,115,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,170,107,75,65,10,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,172,112,61,61,16,106,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,162,119,78,87,19,127,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,171,112,66,81,19,127,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,181,120,79,70,18,97,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,174,107,71,68,8,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,182,119,70,91,13,90,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,165,101,69,88,17,125,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,151,111,68,97,7,99,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,154,115,73,75,9,115,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,189,103,62,104,6,109,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,186,105,68,108,19,103,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,188,112,73,81,13,113,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,149,127,68,81,11,129,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,170,124,64,97,14,107,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,179,116,76,105,6,105,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,152,127,68,68,10,100,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,171,114,68,85,7,106,good,HDL and non-HDL cholesterol levels suggest good cardiovascular health. Keep up the healthy habits to maintain your heart health.
+lipid profile,190,160,50,150,35,180,poor,"Elevated total cholesterol and non-HDL cholesterol suggest increased heart disease risk. LDL is high, contributing to plaque formation in arteries. The high triglyceride level also raises cardiovascular risk. Lifestyle changes are strongly recommended."
+lipid profile,215,140,60,120,25,150,good,"Despite higher total cholesterol, HDL (good cholesterol) is high, which can offset some risk. Non-HDL and LDL cholesterol are within manageable levels, indicating moderate heart health. Triglycerides are slightly elevated."
+lipid profile,180,170,45,140,40,190,poor,"High non-HDL cholesterol, elevated triglycerides, and high LDL indicate a higher risk of cardiovascular disease. HDL is slightly lower than ideal, reducing its protective effect. Immediate changes in diet and exercise are recommended."
+lipid profile,225,130,55,110,30,140,good,"Non-HDL cholesterol is in a healthy range. HDL is at a good level, protecting against heart disease. LDL and triglycerides are manageable, suggesting overall good cardiovascular health."
+lipid profile,160,180,40,160,45,200,poor,"Non-HDL cholesterol, LDL, and triglycerides are high, which together significantly increase heart disease risk. HDL is low, further weakening protection against cardiovascular issues. Immediate intervention is recommended."
+lipid profile,210,120,65,100,20,130,excellent,"Good overall cholesterol balance. High HDL levels provide strong cardiovascular protection. Non-HDL and LDL are at healthy levels, and triglycerides are within a safe range. Heart health is excellent."
+lipid profile,170,150,35,170,50,210,poor,"Very high LDL and non-HDL cholesterol, combined with low HDL, indicate a serious risk of heart disease. High triglycerides further compound the risk. Immediate medical intervention is needed."
+lipid profile,200,190,70,130,15,120,good,"High HDL provides significant cardiovascular protection despite elevated total cholesterol. Non-HDL and LDL levels are within a healthy range, and while triglycerides are elevated, overall risk remains moderate."
+lipid profile,230,110,30,90,55,220,poor,Extremely high non-HDL and VLDL levels significantly raise heart disease risk. Low HDL weakens cardiovascular protection. Immediate action is necessary to mitigate these risks.
+lipid profile,185,160,80,180,10,110,excellent,"High HDL provides strong protection despite elevated LDL. Non-HDL cholesterol and triglycerides are manageable, contributing to overall good heart health, although LDL needs monitoring."
+lipid profile,220,150,60,120,20,175,moderate,"Non-HDL cholesterol is slightly elevated, but HDL offers protective effects. Overall heart health is fairly good, though reducing non-HDL cholesterol could lower long-term cardiovascular risk."
+lipid profile,190,160,50,100,25,100,good,"Non-HDL cholesterol is within a healthy range. HDL, LDL, and triglycerides are also balanced, indicating good overall heart health."
+lipid profile,210,140,40,90,15,145,moderate,"Non-HDL cholesterol is within an acceptable range, though HDL is slightly lower. Heart health is moderate but could benefit from increased HDL levels."
+lipid profile,180,170,55,130,30,125,good,"HDL is at a good level, and non-HDL and LDL cholesterol are manageable. Triglycerides are elevated but not critical. Overall heart health is reasonably good."
+lipid profile,240,130,65,80,10,165,good,"Non-HDL cholesterol is slightly elevated, but high HDL and low LDL levels offer protection. Heart health is generally good, with some monitoring of non-HDL recommended."
+lipid profile,170,180,45,140,32,155,moderate,"Non-HDL cholesterol is within the borderline range, but the high LDL and triglyceride levels pose a risk. HDL is slightly lower than ideal. Monitoring and lifestyle changes could improve heart health."
+lipid profile,250,120,35,70,5,105,good,"Non-HDL and LDL cholesterol are at healthy levels, though low HDL is concerning. Overall heart health is decent but could improve with higher HDL levels."
+lipid profile,160,190,70,150,35,135,good,"Elevated triglycerides and LDL pose a risk, but high HDL offers significant cardiovascular protection. Non-HDL cholesterol is manageable, though some risk persists due to LDL."
+lipid profile,260,110,30,60,2,185,poor,"Non-HDL cholesterol is elevated, and low HDL raises heart disease risk. LDL is low, which offers some balance, but overall risk remains high."
+lipid profile,150,200,75,160,37,90,excellent,"High HDL offers excellent protection, and non-HDL cholesterol is low, supporting good cardiovascular health. However, high LDL and triglycerides warrant monitoring."

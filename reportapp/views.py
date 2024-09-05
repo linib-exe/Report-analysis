@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 from ocr_function import Lipid_Profile,Rft
 
+
 # Create your views here.
 def home(request):
     if request.method == 'POST':

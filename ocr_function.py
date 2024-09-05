@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import cv2
 import pandas as pd
 from binarization_function import binarization
-
+from model_function import model
 
 def Lipid_Profile(img):
     recognized_headings = []
@@ -83,6 +83,8 @@ def Lipid_Profile(img):
     column_values = [first_column,second_column,third_column,forth_column]
     data = {headings[i]: pd.Series(column_values[i]) for i in range(len(headings))}
     df = pd.DataFrame(data)
+    column_values_np = df['result'].values
+    prediction = model(column_values_np.reshape(1, -1))
     df.to_csv('data.csv', index=False)
 
     print(f"Words List: {words_list}")
@@ -92,6 +94,7 @@ def Lipid_Profile(img):
     print(f"{recognized_headings[2]}: {third_column}")
     print(f"{recognized_headings[3]}: {forth_column}")
     print(f"Test:{test}")
+    print(f"Result:{prediction}")
 
 
 def Rft(img):
@@ -171,6 +174,7 @@ def Rft(img):
     column_values = [first_column,second_column,third_column,forth_column]
     data = {headings[i]: pd.Series(column_values[i]) for i in range(len(headings))}
     df = pd.DataFrame(data)
+    prediction = model(df)
     df.to_csv('data.csv', index=False)
 
     print(f"Words List: {words_list}")
@@ -180,5 +184,6 @@ def Rft(img):
     print(f"{recognized_headings[2]}: {third_column}")
     print(f"{recognized_headings[3]}: {forth_column}")
     print(f"Test:{test}")
+    print(f"Result:{prediction}")
 
 
