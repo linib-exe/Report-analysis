@@ -87,14 +87,15 @@ def Lipid_Profile(img):
     prediction = model(column_values_np.reshape(1, -1))
     df.to_csv('data.csv', index=False)
 
-    print(f"Words List: {words_list}")
-    print(f"Headings: {recognized_headings}")
-    print(f"{recognized_headings[0]}: {first_column}")
-    print(f"{recognized_headings[1]}: {second_column}")
-    print(f"{recognized_headings[2]}: {third_column}")
-    print(f"{recognized_headings[3]}: {forth_column}")
-    print(f"Test:{test}")
-    print(f"Result:{prediction}")
+    # print(f"Words List: {words_list}")
+    # print(f"Headings: {recognized_headings}")
+    # print(f"{recognized_headings[0]}: {first_column}")
+    # print(f"{recognized_headings[1]}: {second_column}")
+    # print(f"{recognized_headings[2]}: {third_column}")
+    # print(f"{recognized_headings[3]}: {forth_column}")
+    # print(f"Test:{test}")
+    # print(f"Result:{prediction}")
+    return prediction
 
 
 def Rft(img):
@@ -177,13 +178,14 @@ def Rft(img):
     prediction = model(df)
     df.to_csv('data.csv', index=False)
 
-    print(f"Words List: {words_list}")
-    print(f"Headings: {recognized_headings}")
-    print(f"{recognized_headings[0]}: {first_column}")
-    print(f"{recognized_headings[1]}: {second_column}")
-    print(f"{recognized_headings[2]}: {third_column}")
-    print(f"{recognized_headings[3]}: {forth_column}")
-    print(f"Test:{test}")
-    print(f"Result:{prediction}")
+    # print(f"Words List: {words_list}")
+    # print(f"Headings: {recognized_headings}")
+    # print(f"{recognized_headings[0]}: {first_column}")
+    # print(f"{recognized_headings[1]}: {second_column}")
+    # print(f"{recognized_headings[2]}: {third_column}")
+    # print(f"{recognized_headings[3]}: {forth_column}")
+    # print(f"Test:{test}")
+    # print(f"Result:{prediction}")
+    return prediction
 
 
