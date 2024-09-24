@@ -1,12 +1,10 @@
-from django.shortcuts import render,redirect
+from django.shortcuts import render, redirect
 from PIL import Image
-import matplotlib.pyplot as plt
-import cv2
 import numpy as np
-from ocr_function import Lipid_Profile,Rft
+import base64
+from io import BytesIO
+from ocr_function import Lipid_Profile, Rft
 
-
-# Create your views here.
 def home(request):
     if request.method == 'POST':
         image = request.FILES.get('image')
@@ -22,19 +20,30 @@ def home(request):
             prediction = Lipid_Profile(img)
 
         elif test == 'rft':
-            Rft(img)
-        
-        # Store the prediction in the session
+            prediction = Rft(img)
+
+        # Convert the image to RGB if it's in RGBA mode (for JPEG compatibility)
+        img_pil = Image.open(image)
+        if img_pil.mode == 'RGBA':
+            img_pil = img_pil.convert('RGB')
+
+        # Convert the image to base64
+        buffered = BytesIO()
+        img_pil.save(buffered, format="JPEG")  # Save image to buffer as JPEG
+        img_base64 = base64.b64encode(buffered.getvalue()).decode('utf-8')  # Convert to base64
+
+        # Store the prediction and the base64 image in the session
         request.session['prediction'] = prediction
+        request.session['image_base64'] = img_base64
 
         return redirect('result')
 
     return render(request, 'index.html')
 
 def result(request):
-    # Retrieve the prediction from the session
+    # Retrieve the prediction and base64 image from the session
     prediction = request.session.get('prediction', 'No prediction found')
+    image_base64 = request.session.get('image_base64', '')
 
-    # Pass the prediction to the template
-    return render(request, 'resultpage.html', {'prediction': prediction.upper})
-
+    # Pass the prediction and base64 image to the template
+    return render(request, 'resultpage.html', {'prediction': prediction.upper, 'image_base64': image_base64})
